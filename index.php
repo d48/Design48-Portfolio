@@ -83,36 +83,6 @@
      </section>
      <!-- end project -->
      
-    <section class="project design e-commerce php" id="n11"> <a href="http://www.roadlesstraveledstore.com" target="_blank" id="n12"><img src="images/thumb-roadless.jpg" alt="Road Less Traveled Store" width="300" height="200" border="0" class="bordered" id="n13" /></a>
-        <hgroup>
-            <h1 class="title">Road Less Traveled Store </h1>
-            <h2 class="highlights">Design / E-commerce / PHP</h2>
-        </hgroup>
-        <div class="description">Key Solutions: Design appealed to 
-            client&rsquo;s visitors that are into eco-friendly 
-            products. The website has a 3rd party 
-            e-commerce solution for the visitors to 
-            purchase the products easily. <br />
-        <div class="weblink"> <img src="images/arrow-launch.gif" style="border: none; margin: 0px; padding: 0px;" id="n17"/>&nbsp;&nbsp; <a href="http://www.roadlesstraveledstore.com" target="_blank" id="n18">View Website</a> </div>
-        </div>
-    </section>
-     <!-- end project -->
-     
-     <section class="project design"> <a href="http://www.ultragirlshowroom.com" target="_blank" id="n20"><img src="images/thumb-ultragirl.jpg" alt="Ultra Girl Showroom" width="300" height="200" border="0" class="bordered" id="n21" /></a>
-	<hgroup>
-	       <h1 class="title">Ultra Girl Showroom </h1>
-	       <h2 class="highlights">Design</h2>
-	  </hgroup>
-	  <div class="description">Key Solutions: The creative brief 
-	       included an audience that are keen to 
-	       vintage and 1950s apparel. The website 
-	       includes a secure area for specific 
-	       visitors to view content in private. <br />
-	       <div class="weblink"> <img src="images/arrow-launch.gif" style="border: none; margin: 0px; padding: 0px;" id="n25"/>&nbsp;&nbsp; <a href="http://www.ultragirlshowroom.com" target="_blank" id="n26">View Website</a> </div>
-	  </div>
-     </section>
-     <!-- end project -->
-     
      <section class="project design flash"> <a href="http://www.design48.net/clients/walkow/flashsample" target="_blank" id="n28"><img src="images/thumb-walkow.jpg" alt="Walkow Dental" border="0" class="bordered" id="n29" /></a>
 	<hgroup>
 	       <h1 class="title">Walkow Dental</h1>
